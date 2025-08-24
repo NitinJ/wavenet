@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "num_samples": 50000,
+  "num_samples": 66331,
   "seq_len": 32000,
-  "dtype": "long",
+  "dtype": "int64",
   "shard_size": 10000,
   "shards": [
     "shard_00000.pt",
@@ -20,6 +20,6 @@
     10000,
     10000,
     10000,
-    7000
+    6331
   ]
 }
